@@ -1,0 +1,2 @@
+# RapidClick
+Autoclicker for Windows
